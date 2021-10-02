@@ -1,5 +1,5 @@
 # R-solar-data
-This is an API written to get daily and monthly Solar Irradiance, Cloud Amount, Temperature and Precitipation. This API is written using R, plumber, docker and Heroku.
+This is an API written to get daily and monthly Solar Irradiance, Cloud Amount, Temperature and Precitipation from [NASA POWER Portal](https://power.larc.nasa.gov/). This API is written using R, plumber, docker and Heroku.
 
 ## Documentation
 API Docs can be found here: [Click me to view Documentation](https://demo-r-solar-data.herokuapp.com/__docs__/)
