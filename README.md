@@ -24,3 +24,7 @@ $ heroku container:push web -a <your-heroku-app-name>
 ```sh
 $ heroku container:release web -a <your-heroku-app-name>
 ```
+
+Author Github: [HowHow06](https://github.com/HowHow06)
+
+[Reference](https://medium.com/@magnus.furugard/r-docker-heroku-rest-api-30c351f9c194)
